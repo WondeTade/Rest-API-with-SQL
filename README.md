@@ -1,1 +1,1 @@
-#Java Spring boot Rest api app
+#Java Spring boot with MySQL database information and authentication provider Rest api app
