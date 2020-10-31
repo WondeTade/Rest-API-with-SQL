@@ -1,1 +1,1 @@
-#Java Spring boot and Rest api app
+#Java Spring boot Rest api app
